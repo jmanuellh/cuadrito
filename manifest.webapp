@@ -1,0 +1,15 @@
+{
+    "name": "cc1.5.4",
+    "fullscreen": "true",
+	"description": "asd",
+    "icons": {
+        "60": "icon60.png",
+        "128": "icon128.png"
+    },
+    "developer": {
+        "name": "Yo",
+        "url": "http://www.facebook.com/jmanuellh"
+    },
+	"launch_path":"/index.html",
+	"default_locale":"es"
+}
